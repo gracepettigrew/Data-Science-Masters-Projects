@@ -1,6 +1,8 @@
 #Time Series Assignment 
 #Name: Grace Pettigrew
-#Student ID: 10635748
+#Created in May 2024
+#Used apple stock data available from Kaggle (Apple stock Price till 2023 December)
+#Looked at an ARIMA Model and a model using Facebook Prophet to forecast stock prices
 library(dplyr)
 library(zoo)
 library(forecast)
