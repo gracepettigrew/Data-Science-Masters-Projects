@@ -1,9 +1,7 @@
 # Name:  Grace Pettigrew
-# Student Number:  10635748
 
 # This file is provided to you as a starting point for the "English Test" program of Assignment 1
-# of Programming Principles in Semester 2, 2023.  It mainly provides you with a suitable list of words.
-# Please use this file as the basis for your assignment work.  You are not required to reference it.
+# of Programming Principles in Semester 2, 2023.  
 
 
 # Import the random module to allow us to select words and questions at random.
