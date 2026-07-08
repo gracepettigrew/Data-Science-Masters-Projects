@@ -1,5 +1,4 @@
 # Name:  Grace Pettigrew
-# Student Number:  10635748
 
 # Import the required modules.
 import tkinter as tk
