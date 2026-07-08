@@ -1,14 +1,9 @@
 # Name:  Grace Pettigrew
-# Student Number:  10635748
-
-# This file is provided to you as a starting point for the "admin.py" program of Project
-# of Programming Principles in Semester 2, 2023.  It aims to give you just enough code to help ensure
-# that your program is well structured.  Please use this file as the basis for your assignment work.
-# You are not required to reference it.
 
 
-# The "pass" command tells Python to "do nothing".  It is simply a placeholder to ensure that the starter files run smoothly.
-# They are not needed in your completed program.  Replace them with your own code as you complete the assignment.
+# This file is for the "admin.py" program of Project
+# of Programming Principles in Semester 2, 2023. 
+
 
 
 # Import the json module to allow us to read and write data in JSON format.
